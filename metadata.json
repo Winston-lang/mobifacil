@@ -1,0 +1,7 @@
+{
+  "name": "Mobi Facil",
+  "description": "Recarga de cartão municipal de ônibus de forma simples e rápida.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
